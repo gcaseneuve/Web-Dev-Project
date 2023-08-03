@@ -1,2 +1,3 @@
 Deployment/
 *.Identifier
+.DS_STORE
