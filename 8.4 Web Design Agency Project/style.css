@@ -22,7 +22,7 @@ footer {
 }
 
 .card{
-  display: inline;
+  /* display: inline-block; */
   width: 45%;
   
 }
@@ -32,6 +32,7 @@ footer {
 .right{
   float: right;
 }
+
 .tile-image{
   float: left;
   height: 200px;
