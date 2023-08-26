@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Kite Darker",
+    "emmet.preferences": {
+
+    },
+    "emmet.includeLanguages": {
+     
+        "javascript": "javascriptreact"
+      }
+}
